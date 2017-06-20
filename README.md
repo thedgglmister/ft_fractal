@@ -3,7 +3,7 @@ The 2nd project of the 42us graphics branch
 
 ### --Project Description--
 
-ft_fractal is a program that renders colorful fractal images that can be zoomed in and out of in real time. Supported fractals are "Mandelbrot", "Julia", "Burning Ship", and "Buddhabrot".
+ft_fractal is a program that renders colorful fractal images that can be zoomed in and out of in real time. Supported fractals are "Mandelbrot", "Julia", "Burning Ship", and "Buddhabrot". To facilitate quick frame rendering, I've employed both multithreading and principle of efficient calculating.
 
 #### --Coding Style--
 

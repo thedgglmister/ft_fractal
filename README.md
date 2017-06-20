@@ -40,6 +40,5 @@ The Project is written in C and in accordance with "The Norm".
     • Right Shift will automatically rotate color palette
     • esc to exit
     
- <img src="/images/mandel1.png" width="200">
- <img src="/images/mandel2.png" width="200">
- <img src="/images/burning_ship.png" width="200">
+ <img src="/images/mandel1.png" width="420"> <img src="/images/mandel2.png" width="420">
+ <img src="/images/burning_ship.png" width="420"> <img src="/images/mandel3.png" width="420">

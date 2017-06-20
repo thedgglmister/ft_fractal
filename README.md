@@ -23,12 +23,12 @@ The Project is written in C and in accordance with "The Norm".
     • No more than 4 parameters per function
     • Forbidden functions are: [for] [do ... while] [switch] [case] [goto]
     
-### --Demo Instructions (Mac OSX El Capitan)--
+### --Demo Instructions (Mac OSX Sierra)--
 
     • Open Terminal and run the following commands:
     • git clone https://github.com/thedigglemister/ft_fractal ft_fractal
     • cd ft_fractal
-    • make && ./fractal "mandelbrot" (ignore warnings related to minilibx)
+    • make && ./fractal "mandelbrot"
     • Additionally, you might try "burning_ship", "julia", or "buddhabrot" in place of "mandelbrot"
        
 #### --User Controls--

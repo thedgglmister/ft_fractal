@@ -49,7 +49,7 @@ void	ft_handle_args(t_params *params, int ac, char *arg)
 {
 	if (ac != 2)
 	{
-		write(1, "usage: fractol [\"mandelbrot\" | \
+		write(1, "usage: ./fractal [\"mandelbrot\" | \
 \"julia\" | \"burning_ship\" | \"buddhabrot\"]\n", 72);
 		exit(0);
 	}

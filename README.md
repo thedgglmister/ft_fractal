@@ -36,8 +36,8 @@ The Project is written in C and in accordance with "The Norm".
     • Arrows keys will translate the image
     • Z and X can be used to zoom in and out with zoom following the mouse
     • Left Shift can toggle automatic zoom
-    • Space will rotate the color palette
-    • Right Shift will automatically rotate color palette
+    • Space will rotate the color gradient
+    • Right Shift will toggle automaticcolor gradient rotation
     • esc to exit
     
  <img src="/images/mandel1.png" width="420"> <img src="/images/mandel2.png" width="420">
